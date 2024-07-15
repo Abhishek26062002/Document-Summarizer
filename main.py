@@ -1,4 +1,4 @@
-from urllib import request
+
 from fastapi import FastAPI, Request, Form, UploadFile, File
 from fastapi.responses import JSONResponse
 from fastapi.templating import Jinja2Templates
