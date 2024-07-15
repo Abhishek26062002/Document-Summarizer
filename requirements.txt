@@ -1,5 +1,4 @@
 fastapi
 google.generativeai
 Pillow
-urllib
 io
